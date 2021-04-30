@@ -1,4 +1,5 @@
 <?php
+  echo "deneme xd";
   $url = "/";
   if (isset($_GET["id"])) {
   	switch ($_GET["id"]) {
